@@ -118,6 +118,7 @@ If we update this policy, we will:
 For questions about this Privacy Policy:
 
 - **Developer:** Melibyte Apps
+- **Email:** melibyteapps@outlook.com
 - **App:** FlowClip
 
 ---
@@ -125,3 +126,4 @@ For questions about this Privacy Policy:
 ## Summary
 
 **FlowClip is a privacy-first video editor. We don't collect your data, we don't track you, and your videos never leave your device. Everything stays under your control.**
+
